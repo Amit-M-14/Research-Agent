@@ -1,0 +1,5 @@
+Research Report
+Generated on: 2026-04-23 13:51:05
+==================================================
+
+{"topic": "blackhole", "summary": "A region in space where the gravitational pull is so strong that nothing, not even light, can escape. It is formed when a massive star collapses in on itself.", "sources": ["NASA", "Wikipedia"], "tools": ["Wikipedia API", "NASA API"]}
